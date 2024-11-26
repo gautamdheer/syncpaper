@@ -5,5 +5,4 @@ SyncPaper is a real-time collaborative document editing application designed to 
 
 
 ## Setting up client frontend part (Day 2)
-Here setting "Quill" third party package for the google docs type text-editor and adding some document related css layout by adding the style file 
- 
+Objective: Integrate a third-party rich-text editor package (Quill) to create a Google Docs-style editor, and set up the initial layout using custom CSS styles. 
